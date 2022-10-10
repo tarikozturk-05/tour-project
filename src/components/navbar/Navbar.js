@@ -4,12 +4,12 @@ const Navbar = () => {
   return (
     <div>
         <ul>
-    <li> <a href="">About Us</a></li>
-    <li><a href="">For You</a></li>
-    <li><a href="">Services</a></li>
-    <li><a href="">Blog</a></li>
-    <li><a href="">Vlog</a></li>
-    <li><a href="">Contact</a></li>
+    <li> <a href="#">About Us</a></li>
+    <li><a href="#">For You</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Vlog</a></li>
+    <li><a href="#">Contact</a></li>
         </ul>
     </div>
   )

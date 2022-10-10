@@ -5,6 +5,7 @@ justify-content: center;
 
 column-gap: 1rem;
 background-color: yellowgreen;
+flex-wrap: wrap;
 
 
 }
